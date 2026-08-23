@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.darshniDev.mangatea.app-mergeDebugResources-28:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Darshan\\.gradle\\caches\\9.1.0\\transforms\\2eaebe8ad6b43aee8bcd1b68c3f4fa1e\\workspace\\transformed\\appcompat-1.6.1\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -10,7 +10,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        // Using safe call operator ?. so it will NEVER crash if nulldfsdfsdfsdf just ignor
+        // Using safe call operator ?. so it will NEVER crash if nulldfsdfsdfsdf just ignor agagin
         val myTextView = findViewById<TextView>(R.id.myTextView)
         myTextView?.text = "Vanakkam! MangaTea is Ready 🍵"
     }
