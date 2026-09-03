@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MangaTea</string>
+    <string name="welcome_message">Vanakkam! MangaTea is Ready 🍵</string>
 </resources>
