@@ -12,3 +12,16 @@
 .externalNativeBuild
 .cxx
 local.properties
+# Built outputs & APKs
+/build
+/*/build
+*.apk
+*.aar
+*.jar
+*.idsig
+
+# Android Studio & IntelliJ IDE settings
+.idea/
+.gradle/
+local.properties
+captures/
